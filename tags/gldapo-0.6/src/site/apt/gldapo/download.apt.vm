@@ -1,0 +1,59 @@
+    --------
+    Download
+    --------
+    
+Download Gldapo
+
+* Distribution Details
+
+** System Requirements
+
+*------+----------+--------------+
+||     || Version || Description |
+*------+----------+--------------+
+| JDK | 1.5 + | |
+*------+----------+--------------+
+| {{{http://groovy.codehaus.org/}Groovy}} | 1.5.6 + | |
+*------+----------+--------------+
+| {{{http://www.springframework.org/ldap}Spring-LDAP}} | 1.2.1 | Provides the underlying LDAP connectivity |
+*------+----------+--------------+
+| {{{http://ldaley.com/injecto}Injecto}} | 0.6 | Provides the injection of dynamic behaviour in to schema classes |
+*------+----------+--------------+
+
+** Contents
+
+    * Gldapo JAR
+    
+    * Gldapo Source
+    
+    * Gldapo Documentation/Site
+    
+    * Dependencies
+    
+        * Spring-LDAP 1.2.1 (plus dependencies)
+    
+        * Injecto 0.6
+
+* Stable Release (${stableVersion})
+
+*-------------------------+----------+-----------+------------+
+||                        || Mirrors || Checksum || Signature |
+*-------------------------+----------+-----------+------------+
+| Gldapo ${stableVersion} (tar.bz2)     | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.tar.bz2} gldapo-${stableVersion}-${distAssembly}.tar.bz2}} | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.tar.bz2.md5} gldapo-${stableVersion}-${distAssembly}.tar.bz2.md5}} | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.tar.bz2.sha1} gldapo-${stableVersion}-${distAssembly}.tar.bz2.sha1}} |
+*-------------------------+---------+----------+-----------+
+| Gldapo ${stableVersion} (tar.gz)      | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.tar.gz} gldapo-${stableVersion}-${distAssembly}.tar.gz}} | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.tar.gz.md5} gldapo-${stableVersion}-${distAssembly}.tar.gz.md5}} | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.tar.gz.sha1} gldapo-${stableVersion}-${distAssembly}.tar.gz.sha1}} |
+*-------------------------+---------+----------+-----------+
+| Gldapo ${stableVersion} (zip)         | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.zip} gldapo-${stableVersion}-${distAssembly}.zip}} | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.zip.md5} gldapo-${stableVersion}-${distAssembly}.zip.md5}} | {{{${downloadUrlBase}/gldapo-${stableVersion}-${distAssembly}.zip.sha1} gldapo-${stableVersion}-${distAssembly}.zip.sha1}} |
+*-------------------------+---------+----------+-----------+
+
+* Development Release (${project.version})
+
+*-------------------------+----------+-----------+------------+
+||                        || Mirrors || Checksum || Signature |
+*-------------------------+----------+-----------+------------+
+| Gldapo ${project.version} (tar.bz2)     | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.tar.bz2} gldapo-${project.version}-${distAssembly}.tar.bz2}} | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.tar.bz2.md5} gldapo-${project.version}-${distAssembly}.tar.bz2.md5}} | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.tar.bz2.sha1} gldapo-${project.version}-${distAssembly}.tar.bz2.sha1}} |
+*-------------------------+---------+----------+-----------+
+| Gldapo ${project.version} (tar.gz)      | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.tar.gz} gldapo-${project.version}-${distAssembly}.tar.gz}} | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.tar.gz.md5} gldapo-${project.version}-${distAssembly}.tar.gz.md5}} | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.tar.gz.sha1} gldapo-${project.version}-${distAssembly}.tar.gz.sha1}} |
+*-------------------------+---------+----------+-----------+
+| Gldapo ${project.version} (zip)         | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.zip} gldapo-${project.version}-${distAssembly}.zip}} | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.zip.md5} gldapo-${project.version}-${distAssembly}.zip.md5}} | {{{${downloadUrlBase}/gldapo-${project.version}-${distAssembly}.zip.sha1} gldapo-${project.version}-${distAssembly}.zip.sha1}} |
+*-------------------------+---------+----------+-----------+
